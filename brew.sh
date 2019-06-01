@@ -33,6 +33,7 @@ brew cask install dcfldd
 brew cask install Lynis
 brew cask install mc
 brew cask install gisto
+brew cask install neofetch
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
